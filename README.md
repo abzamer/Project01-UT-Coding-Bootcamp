@@ -1,7 +1,5 @@
-﻿
-# Project01-UT Coding Bootcamp
-
-
+﻿# Bookilicious
+You've just finished reading an amazing book, but now you're lost. You have no idea what to read next. Bookilicious allows users to enter a title, author, or genre and gives a limited recommendations list so the user does not feel overwhelmed with choices. Check it out!
 
 
 # Deployed at: 
